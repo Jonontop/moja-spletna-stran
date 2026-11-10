@@ -11,6 +11,11 @@ main {
   margin: auto;
 }
 
+h1 {
+  font-size: 42px;
+  color: #1f4e79;
+}
+
 section {
   background: white;
   padding: 20px;
